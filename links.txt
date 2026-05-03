@@ -1,0 +1,32 @@
+# OSINT and Research Links
+
+- https://paperswithcode.com
+- https://haveibeenpwned.com
+- https://sci-hub.se
+- https://osintframework.com
+- https://archive.org
+- https://worldcat.org
+- https://scholar.google.com
+- https://arxiv.org
+- https://pubmed.ncbi.nlm.nih.gov
+- https://openlibrary.org
+- https://unpaywall.org
+- https://researchgate.net
+- https://semanticscholar.org
+- https://core.ac.uk
+- https://directory.eoportal.org
+- https://statista.com
+- https://ourworldindata.org
+- https://kaggle.com
+- https://wikileaks.org
+- https://bellingcat.com
+- https://waybackmachine.org
+- https://openstreetmap.org
+- https://data.gov
+- https://europa.eu/european-union/about-eu/institutions-bodies_en
+- https://fbi.gov/wanted
+- https://cia.gov/readingroom
+- https://opencorporates.com
+- https://crunchbase.com
+- https://edgar.sec.gov
+- https://whois.domaintools.com
